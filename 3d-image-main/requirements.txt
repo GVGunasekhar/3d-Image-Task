@@ -1,0 +1,10 @@
+torch
+transformers
+diffusers
+pillow
+matplotlib
+numpy
+pyrender
+trimesh
+opencv-python
+rembg
